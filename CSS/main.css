@@ -1,0 +1,90 @@
+/*General*/
+body{
+	font-size: ;
+	color: #e58320;
+	line-height: 1.7
+}
+body a{
+	color: #0f0fa3;
+}
+
+/*Header*/
+header{
+padding: 1.5rem 5%;
+background-color: #7c7c7d;
+color: #e4a701;
+font-family: 'Libre Baskerville', serif;
+}
+
+.logo h1{
+font-family: 
+font-size:
+color:#d07f3e;
+}
+.menu{
+	color:
+	text-decoration: none;
+}
+
+/*Main Content*/
+main{
+	padding: 3rem 5%;
+}
+
+main h1{
+	font-family: Oswald, sans-serif;
+	font-size: 3rem;
+}
+h2{
+	color: #40571c;
+	font-family: Oswald, sans-serif;
+}
+h3{
+	color: #c66517;
+	font-family: Oswald, sans-serif;
+}
+
+/*Column Left*/
+.col-left img{
+	width: 100%;
+}
+
+/*Column Right*/
+
+/*Ingredients List*/
+.ingredients ul{
+	font-family: 'Libre Baskerville', serif;
+	font-size: .85rem;
+	color: #65892d;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.ingredients li{
+	padding: 5rem 0%;
+	border-top: 1px dotted #BDBDBD;
+	font-family: 'Libre Baskerville', serif;
+	font-size: .85rem;
+	color: #65892d;
+}
+
+/*Footer*/
+footer p{
+	padding: 1.5rem 5%;
+	background-color: #7c7c7d;
+	color: #e4a701;
+}
+footer a{
+	text-decoration: none;
+	font-family: 'Libre Baskerville', serif;
+	color: #0f0fa3;
+}
+h4{
+	color: #c66517;
+	font-family: Oswald, sans-serif;
+}
+p{
+	font-family: 'Libre Baskerville', serif;
+	font-size: .85rem;
+	color: #65892d;
+}
